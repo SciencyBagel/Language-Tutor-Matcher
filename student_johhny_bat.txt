@@ -1,0 +1,12 @@
+Johnny Bat
+Gender: Male
+Language: French
+Date: 09/23/07
+Max: $3.40
+Sunday: x
+Monday: x
+Tuesday: -
+Wednesday: -
+Thursday: x
+Friday: x
+Saturday: -

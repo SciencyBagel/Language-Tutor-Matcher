@@ -1,0 +1,13 @@
+Rodrigo Hernandez
+Gender: Male
+Languages: German,Spanish,French,
+Date: 09/23/07
+Max: 2
+Rate: $3.4
+Sunday: -
+Monday: -
+Tuesday: -
+Wednesday: -
+Thursday: -
+Friday: -
+Saturday: -
